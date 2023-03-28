@@ -1,0 +1,27 @@
+{
+  "name": "shitsugen-maker",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliyome/shitsugen-maker.git"
+  },
+  "author": "aliyome",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aliyome/shitsugen-maker/issues"
+  },
+  "homepage": "https://github.com/aliyome/shitsugen-maker#readme",
+  "devDependencies": {
+    "vite": "^4.2.1",
+    "vite-node": "^0.29.7",
+    "vitest": "^0.29.7"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1"
+  }
+}
